@@ -8,11 +8,11 @@
 
 These are predictions from the text, not measured retention.
 
-| Episodes | Watch | Risk as drafted | Cause |
+| Stretch | What to check after launch | Risk as drafted | Cause |
 |---|---|---|---|
-| 1 | %H1 | low | none. It opens on the failure and ends on the furnace's promise |
-| 2-5 | %H5 | high | exposition dump, name flood, recaps, hero missing, payoff told in one line, three endings at rest |
-| 6-10 | %H10 | not assessed | the sample has only six chapters |
+| The hook (episode 1) | listeners who finish it and start the next | low | none. It opens on the failure and ends on the furnace's promise |
+| The promise (episodes right after) | listeners still there once the opening bet should have paid off | high | exposition dump, name flood, recaps, hero missing, payoff told in one line, three endings at rest |
+| The habit | listeners who keep coming back on their own | not assessed | the sample ends before the show could become a habit |
 
 ## Why
 
@@ -83,5 +83,5 @@ The Grand Elder's seat would go to whoever held the most disciples before the ne
 
 ## After launch
 
-- **%H1** tests the hook. If it comes in weak, the problem is the premise or the voice, not the plan, because episode 1 was not changed.
-- **%H5** tests the plan. This is where the draft was predicted to lose the most listeners. Compare it with shows on the same slate that hold well through episode 5. If this show still falls hard by episode 5, the diagnosis was wrong, and the next place to look is the voice and the pace of the performance.
+- **The hook** tests episode 1. If few people who start it come back for episode 2, the problem is the premise or the voice, not the plan, because episode 1 was not changed.
+- **The promise** tests the plan. This is where the draft was predicted to lose the most listeners. Compare it with other new shows that hold their audience through the opening bet. If this one still falls off there, the diagnosis was wrong, and the next place to look is the voice and the pace of the performance.

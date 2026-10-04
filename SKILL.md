@@ -23,7 +23,7 @@ A folder of chapters, one `.md` or `.txt` file each, named so they sort in order
    ```
    Default episode length is 12 minutes at 150 words per minute. Use `--target-minutes` if the user gives another length.
 2. Read chapter 1 and write the promise it makes to the listener in one sentence.
-3. Read the chapters in draft episodes 1 to 10. Those are the episodes behind %H1, %H5, and %H10.
+3. Read the opening run: episode 1, then the next episodes up to the first real payoff. That is the stretch where a new listener decides whether to stay.
 4. Diagnose each draft episode against [rubric.md](rubric.md). The script's flags (many new names or terms, recap openings, the last line of each chapter) are leads to check, not verdicts. Keep only causes you can prove with a quoted line.
 5. Fix the plan. Move episode boundaries so each episode ends on a line that opens a question, cut or compress what the rubric flags, and merge or reorder chapters where the promise waits too long.
 6. Write the report below and save it as `preflight-report.md` next to the chapters folder.
@@ -37,11 +37,11 @@ A folder of chapters, one `.md` or `.txt` file each, named so they sort in order
 **The promise from chapter 1:** <one sentence>
 
 ## Predicted drop-off
-| Episodes | Watch | Risk | Cause |
+| Stretch | What to check after launch | Risk | Cause |
 |---|---|---|---|
-| 1 | %H1 | low / medium / high | <cause, or none> |
-| 2-5 | %H5 | ... | ... |
-| 6-10 | %H10 | ... | ... |
+| The hook (episode 1) | listeners who finish it and start the next | low / medium / high | <cause, or none> |
+| The promise (the episodes right after) | listeners still there once the opening bet should have paid off | ... | ... |
+| The habit (once the show should have them) | listeners who keep coming back on their own | ... | ... |
 
 ## Why
 1. **<Cause>**, chapter <n>. "<quoted line>" <why this loses a listener>
@@ -56,7 +56,7 @@ A folder of chapters, one `.md` or `.txt` file each, named so they sort in order
 The rewritten opening or ending for each episode the plan changes the most. Write it in full, in the novel's own voice and names.
 
 ## After launch
-Which %H number confirms or disproves each prediction, and what result would mean the plan was wrong.
+Which listener behaviour confirms or disproves each prediction, and what result would mean the plan was wrong.
 ```
 
 Rules:
