@@ -4,6 +4,18 @@ An AI check that reads a web novel before it is made into an audio series. It pr
 
 A show's listener numbers only exist after it has been recorded, voiced, and released. By then the people who left are gone, and fixing it means a rework. How popular a novel is with readers does not predict how it holds listeners. Preflight moves the check before production. It reads the chapters the way a listener will hear them, finds the passages that work on a page but lose people in audio, and writes an episode plan with each boundary on a cliffhanger.
 
+![Preflight board for the example novel](examples/the-ninth-furnace/preflight-board.png)
+
+## Example: input and output
+
+| | |
+|---|---|
+| Input | [`examples/the-ninth-furnace/chapters/`](examples/the-ninth-furnace/chapters) — six short chapters of a fictional cultivation novel |
+| Output (web app) | [`preflight-report.json`](examples/the-ninth-furnace/preflight-report.json) — the structured report behind the board above |
+| Output (skill) | [`preflight-report.md`](examples/the-ninth-furnace/preflight-report.md) — the Markdown report the Cursor skill writes |
+
+Verdict for the example: **ADAPT**. Chapter 1 hooks, but episode 2 opens on a list of 22 cultivation terms, chapter 4 drops the hero, and three chapters end at rest. The plan moves the boundaries, cuts the list, and rewrites the openings and endings.
+
 It comes in two forms that share the same rubric and the same measuring script:
 
 - a **Cursor skill** (`SKILL.md`), run as `run @preflight on <chapters folder>`, which writes `preflight-report.md`

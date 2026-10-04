@@ -1,0 +1,320 @@
+{
+  "title": "The Ninth Furnace",
+  "verdict": "ADAPT",
+  "verdict_reason": "The hook in chapter 1 is strong, but the very next episode buries it under a rules dump, a recap, and six new names, and the episodes after that drop the hero entirely or close on calm beats; all of this can be fixed by trimming and re-boundarying without changing the story.",
+  "promise": "A humiliated, 'crippled' disciple has secretly awakened a hungry, ambitious power that will make everyone who mocked him kneel.",
+  "issues": [
+    {
+      "id": "EA001",
+      "cause": "Exposition dump",
+      "label": "Realm List Dump",
+      "chapter": 2,
+      "episode": 2,
+      "severity": "high",
+      "quote": "The first is Qi Condensation, which has nine stages. After Qi Condensation comes Foundation Establishment, which has three stages: early, middle, and late. Then Core Formation, then Nascent Soul, then Spirit Severing, then Void Refinement, then Tribulation Crossing, then Mahayana, and finally Immortal Ascension, which no one has reached in ten thousand years.",
+      "why": "Twenty-two named terms arrive back to back right after the strongest hook in the book, with nothing for the listener to hold onto and no page to glance back at.",
+      "recommendation": "Cut the full ladder to a single spoken reference the hero actually needs now (spirit stones, the breathing method); save ranks for when Li Wen is tested against them.",
+      "verified": true
+    },
+    {
+      "id": "EA002",
+      "cause": "Name flood",
+      "label": "Six Names At Once",
+      "chapter": 3,
+      "episode": 2,
+      "severity": "high",
+      "quote": "Steward Hu gave him a grey robe and a room at the end of the eastern row. Elder Fang, who managed outer sect duties, assigned him to the herb gardens. Senior Brother Qiao, the strongest outer disciple, watched him from the steps with his cousin Qiao Lin. Disciple Bai showed him where to collect his rations. Elder Mo passed by without a word.",
+      "why": "Six named characters land in one breath with no distinguishing action a listener can track by ear, on top of the names already introduced in chapter 1.",
+      "recommendation": "Keep two names that matter later (Steward Hu, Elder Mo) and give the rest roles only: 'the steward,' 'the strongest disciple on the steps.'",
+      "verified": true
+    },
+    {
+      "id": "EA003",
+      "cause": "Hero missing",
+      "label": "Hero Absent Episode",
+      "chapter": 4,
+      "episode": 3,
+      "severity": "high",
+      "quote": "In the inner peaks, Elder Mo poured tea for his guest, Elder Zhang of the Discipline Hall.",
+      "why": "This is one of the first five episodes and Li Wen never appears in it at all; a listener who was hooked on his revenge arc gets a scene about sect politics instead.",
+      "recommendation": "Shrink the chapter to a short scene and land it as a cliffhanger tying directly to Li Wen's fate, rather than a full stand-alone beat.",
+      "verified": true
+    },
+    {
+      "id": "EA004",
+      "cause": "Recap bloat",
+      "label": "Opens With Recap",
+      "chapter": 3,
+      "episode": 2,
+      "severity": "medium",
+      "quote": "As we know, three days ago Li Wen failed the testing stone in front of the whole sect.",
+      "why": "The listener just heard this scene played out in full moments earlier; retelling it flatly undercuts the momentum of the cliffhanger that just ended episode 1.",
+      "recommendation": "Cut the recap sentence entirely and open on the new action: Li Wen reporting to the outer sect.",
+      "verified": true
+    },
+    {
+      "id": "EA005",
+      "cause": "Recap bloat",
+      "label": "Opens With Recap",
+      "chapter": 5,
+      "episode": 3,
+      "severity": "medium",
+      "quote": "As we know, Li Wen was thrown out of the inner sect after failing the testing stone, and has been working in the herb gardens of the outer sect while secretly cultivating with the help of the ninth furnace.",
+      "why": "A second recap in three episodes trains the listener to expect reruns instead of new material.",
+      "recommendation": "Drop the recap line; one sentence of time-passing ('A month passed.') is enough.",
+      "verified": true
+    },
+    {
+      "id": "EA006",
+      "cause": "Payoff drought",
+      "label": "Payoff Told, Not Played",
+      "chapter": 5,
+      "episode": 3,
+      "severity": "medium",
+      "quote": "Li Wen passed the assessment easily and was ranked fortieth. A few people were surprised.",
+      "why": "The first real payoff of the ninth furnace's power is summarized in one sentence instead of staged as a scene, which deflates the promise made in episode 1.",
+      "recommendation": "Play the assessment as a short scene with at least one line of reaction dialogue from a named witness, instead of narrating the result.",
+      "verified": false
+    },
+    {
+      "id": "EA007",
+      "cause": "Closed ending",
+      "label": "Calm Episode Close",
+      "chapter": 4,
+      "episode": 3,
+      "severity": "medium",
+      "quote": "When Elder Zhang left, Elder Mo sat alone for a while, sipping his tea and looking out at the mountains.",
+      "why": "A scene about plotting against the hero should not end on a line about enjoying tea and scenery; it drains the tension the scene was meant to build.",
+      "recommendation": "End this beat on the line about controlling core disciples or the coming Tournament instead, so it reads as a threat hanging over Li Wen.",
+      "verified": true
+    },
+    {
+      "id": "EA008",
+      "cause": "Closed ending",
+      "label": "Calm Episode Close",
+      "chapter": 5,
+      "episode": 3,
+      "severity": "low",
+      "quote": "That evening he returned to the herb gardens, satisfied with his progress.",
+      "why": "This closes the episode at rest right before Su Yan's return in the very next chapter, losing a free cliffhanger that already exists in the text.",
+      "recommendation": "Move the episode boundary to end on the opening beat of chapter 6 instead.",
+      "verified": true
+    }
+  ],
+  "episodes": [
+    {
+      "number": 1,
+      "chapters": "1",
+      "ends_on": "\"Feed me,\" the voice said, \"and I will make every one of them kneel.\"",
+      "change": "none",
+      "risk": 15,
+      "risk_reason": "Strong humiliation-to-power hook with a clean cliffhanger; the only concern is five new names in 1.2 minutes, but they are distinct enough to track.",
+      "ends_on_verified": true
+    },
+    {
+      "number": 2,
+      "chapters": "2, 3",
+      "ends_on": "Elder Mo passed by without a word — but he did not forget the boy's name.",
+      "change": "Cut the full realm/rank list to one spoken line about spirit stones and the breathing method; cut the recap opening of chapter 3; reduced six new names to two (Steward Hu, Elder Mo), with others given roles instead of names; moved the ending from the chapter 3 'went to sleep' line to a rewritten line on Elder Mo noticing Li Wen, to open a question instead of closing on rest.",
+      "risk": 35,
+      "risk_reason": "Still the most information-dense episode in the batch; even trimmed, two chapters' worth of world rules and sect introductions land in under two minutes.",
+      "ends_on_verified": false
+    },
+    {
+      "number": 3,
+      "chapters": "4, 5, 6 (opening)",
+      "ends_on": "The courtyard went silent.",
+      "change": "Cut recap openings from chapters 4 and 5; shrank chapter 4 so it ends on the Tournament/core-disciples threat instead of tea and scenery; turned the assessment result into a brief played scene instead of summary; moved the episode boundary past the chapter 5 ending into the opening of chapter 6 so the episode ends on the duel challenge instead of 'satisfied with his progress.'",
+      "risk": 35,
+      "risk_reason": "Chapter 4 still has no Li Wen on-page, which is the single biggest structural risk in the first five episodes even after trimming.",
+      "ends_on_verified": true
+    },
+    {
+      "number": 4,
+      "chapters": "6 (remainder)",
+      "ends_on": "\"Say yes,\" it whispered. \"Let them all watch.\"",
+      "change": "Episode now opens mid-chapter, picking up from the furnace's reaction to the duel challenge rather than restarting the scene.",
+      "risk": 15,
+      "risk_reason": "Short but ends on the clearest unresolved stakes in the batch — a public duel and the furnace's intent — which should carry listeners forward strongly.",
+      "ends_on_verified": true
+    }
+  ],
+  "rewrites": [
+    {
+      "episode": 2,
+      "part": "opening",
+      "text": "The voice in Li Wen's furnace did not waste time on the names of realms or ranks. 'All that matters,' it said, 'is that spirit stones hold power, and you will learn to drink it dry.' It taught him the Nine Furnace Breathing Method, eighty-one cycles, slow and merciless. Li Wen practised through the night. It was difficult, but by morning he felt a little stronger.\n\nThree days after the testing stone, Li Wen reported to the outer sect. Steward Hu gave him a grey robe and a room at the end of the eastern row, then pointed him toward the herb gardens. The strongest disciple on the outer sect steps watched him pass and said nothing."
+    },
+    {
+      "episode": 2,
+      "part": "ending",
+      "text": "Li Wen worked in the herb gardens until evening, then ate alone in the dining hall. On his way back, Elder Mo passed by without a word — but he did not forget the boy's name."
+    },
+    {
+      "episode": 3,
+      "part": "opening",
+      "text": "In the inner peaks, Elder Mo poured tea for his guest, Elder Zhang of the Discipline Hall. 'The Grand Elder grows old,' Elder Mo said. 'When he retires, the seat will go to whoever controls the most core disciples.' They spoke of the coming Sect Tournament, and which disciples might be worth recruiting before the next assessment. When Elder Zhang left, Elder Mo sat alone, already thinking of names he had not used yet."
+    },
+    {
+      "episode": 3,
+      "part": "ending",
+      "text": "A month passed. At the monthly assessment, Li Wen stepped up to the stone, and this time it answered. He was ranked fortieth. 'Fortieth?' someone muttered down the line. 'Wasn't he the cripple?'\n\nThat evening, the gates of the outer sect opened, and Su Yan walked through them on the arm of Senior Brother Qiao. Every head in the courtyard turned toward Li Wen. 'I heard the cripple is still here,' Qiao said loudly. 'Sweeping leaves, is it?' Su Yan finally looked at him. 'Leave, Li Wen. You are embarrassing both of us.' Qiao drew his sword. 'Or stay, and I'll show her what you really are. Duel me. Tomorrow. In front of everyone.' The courtyard went silent."
+    }
+  ],
+  "after_launch": [
+    "If completion rate drops sharply partway through episode 2, it confirms the realm/rank exposition is still too dense even after trimming.",
+    "If listeners who finish episode 2 mostly continue into episode 3, it confirms the Elder Mo teaser line fixed the closed-ending problem.",
+    "If a noticeable number of listeners drop during the Elder Mo scene in episode 3 despite the trim, it confirms the hero-missing issue cannot be fully solved by shortening and the scene should be cut rather than shrunk.",
+    "If episode 4 shows unusually high immediate replay or binge-through to episode 5, it confirms the duel cliffhanger is doing its job as the strongest hook since episode 1."
+  ],
+  "meta": {
+    "folder": "/Users/yogesh.thambidurai/Downloads/preflight/examples/the-ninth-furnace/chapters",
+    "title": "The Ninth Furnace",
+    "chapters_analyzed": 6,
+    "draft_episodes": 4,
+    "proposed_episodes": 4,
+    "target_minutes": 1.5,
+    "wpm": 150,
+    "model": "claude-sonnet-5",
+    "effort": "medium",
+    "seconds": 70.6,
+    "input_tokens": 4610,
+    "output_tokens": 7699
+  },
+  "chapters": [
+    {
+      "number": 1,
+      "title": "The Cracked Furnace",
+      "words": 182,
+      "minutes": 1.2,
+      "new_names": [
+        "Azure",
+        "Cloud",
+        "Li",
+        "Wen",
+        "Su",
+        "Yan"
+      ],
+      "recap": false,
+      "last_line": "\"Feed me,\" the voice said, \"and I will make every one of them kneel.\"",
+      "body": "The testing stone stayed dark.\n\nFour hundred disciples of the Azure Cloud Sect watched sixteen-year-old Li Wen press his palm to it for the third time. Nothing. Not a flicker.\n\n\"Meridians crippled,\" the examiner announced. \"Dismissed from the inner sect.\"\n\nSomeone laughed. Then everyone did.\n\nAcross the courtyard, Su Yan stepped forward. Two years they had been engaged. She did not look at him. Her father held up the betrothal token and snapped it in half.\n\n\"The Su family does not marry cripples.\"\n\nThat night Li Wen sat alone in the woodshed they had given him, pressing his hands against his stomach where his cultivation should have been. Where there should have been warmth, there was only a cold, cracked emptiness.\n\nThen the emptiness spoke.\n\n\"Eight furnaces burned before you, boy. Eight emperors. Every one of them was called a cripple once.\"\n\nLi Wen froze. \"Who's there?\"\n\n\"I am the ninth furnace. And I am very, very hungry.\"\n\nSomething inside him cracked open, and it was not pain.\n\n\"Feed me,\" the voice said, \"and I will make every one of them kneel.\""
+    },
+    {
+      "number": 2,
+      "title": "The Nine Realms",
+      "words": 180,
+      "minutes": 1.2,
+      "new_names": [
+        "Continent",
+        "Qi",
+        "Condensation",
+        "Foundation",
+        "Establishment",
+        "Core",
+        "Formation",
+        "Nascent",
+        "Soul",
+        "Spirit",
+        "Severing",
+        "Void",
+        "Refinement",
+        "Tribulation",
+        "Crossing",
+        "Mahayana",
+        "Immortal",
+        "Ascension",
+        "Nine",
+        "Furnace",
+        "Breathing",
+        "Method"
+      ],
+      "recap": false,
+      "last_line": "Li Wen practised through the night. It was difficult, but by morning he felt a little stronger.",
+      "body": "On the Azure Cloud Continent, cultivation is divided into nine great realms. The first is Qi Condensation, which has nine stages. After Qi Condensation comes Foundation Establishment, which has three stages: early, middle, and late. Then Core Formation, then Nascent Soul, then Spirit Severing, then Void Refinement, then Tribulation Crossing, then Mahayana, and finally Immortal Ascension, which no one has reached in ten thousand years.\n\nThe Azure Cloud Sect itself is divided into the outer sect, the inner sect, and the core disciples. Above them are the elders, who are divided into outer elders, inner elders, and the Grand Elder. The Sect Master rules over all of them.\n\nSpirit stones come in low grade, middle grade, high grade, and supreme grade. One middle grade stone is worth one hundred low grade stones.\n\nThe voice in Li Wen's furnace explained that to begin, he would need to absorb the energy of spirit stones slowly, through the Nine Furnace Breathing Method, which has eighty-one cycles.\n\nLi Wen practised through the night. It was difficult, but by morning he felt a little stronger."
+    },
+    {
+      "number": 3,
+      "title": "The Outer Sect",
+      "words": 156,
+      "minutes": 1.0,
+      "new_names": [
+        "Hu",
+        "Fang",
+        "Qiao",
+        "Lin",
+        "Bai",
+        "Mo"
+      ],
+      "recap": true,
+      "last_line": "Li Wen worked in the herb gardens until evening. He ate in the dining hall, then went back to his room and went to sleep.",
+      "body": "As we know, three days ago Li Wen failed the testing stone in front of the whole sect. His engagement to Su Yan was broken by her father. Then, that same night, a voice spoke to him from the cracked furnace inside his body, calling itself the ninth furnace. Since then he has been practising the Nine Furnace Breathing Method.\n\nNow Li Wen reported to the outer sect.\n\nSteward Hu gave him a grey robe and a room at the end of the eastern row. Elder Fang, who managed outer sect duties, assigned him to the herb gardens. Senior Brother Qiao, the strongest outer disciple, watched him from the steps with his cousin Qiao Lin. Disciple Bai showed him where to collect his rations. Elder Mo passed by without a word.\n\nLi Wen worked in the herb gardens until evening. He ate in the dining hall, then went back to his room and went to sleep."
+    },
+    {
+      "number": 4,
+      "title": "Elder Mo's Plan",
+      "words": 107,
+      "minutes": 0.7,
+      "new_names": [
+        "Zhang",
+        "Discipline",
+        "Tournament"
+      ],
+      "recap": false,
+      "last_line": "When Elder Zhang left, Elder Mo sat alone for a while, sipping his tea and looking out at the mountains.",
+      "body": "In the inner peaks, Elder Mo poured tea for his guest, Elder Zhang of the Discipline Hall.\n\n\"The Grand Elder grows old,\" Elder Mo said. \"When he retires, the seat will go to whoever controls the most core disciples.\"\n\nElder Zhang sipped his tea. \"The Su family supports you. And the Qiao family supports me. Neither of us has enough alone.\"\n\nThey talked for a long time about the balance between the peaks, the coming Sect Tournament, and which disciples could be recruited before the next assessment.\n\nWhen Elder Zhang left, Elder Mo sat alone for a while, sipping his tea and looking out at the mountains."
+    },
+    {
+      "number": 5,
+      "title": "The Monthly Assessment",
+      "words": 89,
+      "minutes": 0.6,
+      "new_names": [],
+      "recap": true,
+      "last_line": "That evening he returned to the herb gardens, satisfied with his progress.",
+      "body": "As we know, Li Wen was thrown out of the inner sect after failing the testing stone, and has been working in the herb gardens of the outer sect while secretly cultivating with the help of the ninth furnace.\n\nA month passed. It was time for the monthly assessment.\n\nLi Wen stood in line with the other outer disciples. When his turn came, he passed the assessment easily and was ranked fortieth. A few people were surprised.\n\nThat evening he returned to the herb gardens, satisfied with his progress."
+    },
+    {
+      "number": 6,
+      "title": "Su Yan Returns",
+      "words": 101,
+      "minutes": 0.7,
+      "new_names": [],
+      "recap": false,
+      "last_line": "\"Say yes,\" it whispered. \"Let them all watch.\"",
+      "body": "The gates of the outer sect opened, and Su Yan walked through them on the arm of Senior Brother Qiao.\n\nEvery head in the courtyard turned toward Li Wen.\n\n\"I heard the cripple is still here,\" Qiao said loudly. \"Sweeping leaves, is it?\"\n\nSu Yan finally looked at him. \"Leave, Li Wen. You are embarrassing both of us.\"\n\nQiao drew his sword. \"Or stay, and I'll show her what you really are. Duel me. Tomorrow. In front of everyone.\"\n\nThe courtyard went silent.\n\nDeep inside Li Wen, the ninth furnace stirred and laughed.\n\n\"Say yes,\" it whispered. \"Let them all watch.\""
+    }
+  ],
+  "draft": [
+    {
+      "number": 1,
+      "chapters": [
+        1
+      ],
+      "minutes": 1.2
+    },
+    {
+      "number": 2,
+      "chapters": [
+        2,
+        3
+      ],
+      "minutes": 2.2
+    },
+    {
+      "number": 3,
+      "chapters": [
+        4,
+        5
+      ],
+      "minutes": 1.3
+    },
+    {
+      "number": 4,
+      "chapters": [
+        6
+      ],
+      "minutes": 0.7
+    }
+  ],
+  "stats_text": "CHAPTERS (6, at 150 words per minute)\n\nch 1   The Cracked Furnace              182 words   1.2 min  6 new names or terms\n       new names or terms: Azure, Cloud, Li, Wen, Su, Yan\n       ends: \"Feed me,\" the voice said, \"and I will make every one of them kneel.\"\nch 2   The Nine Realms                  180 words   1.2 min  22 new names or terms\n       new names or terms: Continent, Qi, Condensation, Foundation, Establishment, Core, Formation, Nascent, Soul, Spirit, Severing, Void, Refinement, Tribulation, Crossing, Mahayana, Immortal, Ascension, Nine, Furnace, Breathing, Method\n       ends: Li Wen practised through the night. It was difficult, but by morning he felt a little stronger.\nch 3   The Outer Sect                   156 words   1.0 min  6 new names or terms; opens with a recap\n       new names or terms: Hu, Fang, Qiao, Lin, Bai, Mo\n       ends: Li Wen worked in the herb gardens until evening. He ate in the dining hall, then went back to his room and went to sleep.\nch 4   Elder Mo's Plan                  107 words   0.7 min  \n       new names or terms: Zhang, Discipline, Tournament\n       ends: When Elder Zhang left, Elder Mo sat alone for a while, sipping his tea and looking out at the mountains.\nch 5   The Monthly Assessment            89 words   0.6 min  opens with a recap\n       ends: That evening he returned to the herb gardens, satisfied with his progress.\nch 6   Su Yan Returns                   101 words   0.7 min  \n       ends: \"Say yes,\" it whispered. \"Let them all watch.\"\n\nDRAFT EPISODES (target 1.5 min, whole chapters only)\n\nep 1   chapters 1             1.2 min  ends on ch 1\nep 2   chapters 2, 3          2.2 min  ends on ch 3\nep 3   chapters 4, 5          1.3 min  ends on ch 5\nep 4   chapters 6             0.7 min  ends on ch 6\n"
+}
