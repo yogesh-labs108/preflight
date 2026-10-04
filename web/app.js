@@ -309,6 +309,7 @@
   }
 
   form.addEventListener("submit", (e) => { e.preventDefault(); run(); });
+  if (new URLSearchParams(location.search).get("shot")) document.body.classList.add("is-shot");
   listSaved();
   exampleBtn.addEventListener("click", async () => {
     const res = await fetch("/example");

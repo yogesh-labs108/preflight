@@ -88,6 +88,10 @@ button, input { font: inherit; }
 .notice strong { display: block; font-size: 13px; margin-bottom: 2px; }
 .notice span { color: var(--muted); font-size: 10.5px; line-height: 1.35; display: block; }
 
+/* ?shot=1 hides the controls for a clean screenshot */
+.is-shot .run { display: none; }
+.is-shot .topbar { justify-content: space-between; }
+
 .status {
   background: var(--indigo-soft);
   border: 1px solid var(--lavender);
